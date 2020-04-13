@@ -90,7 +90,7 @@ gulp.task("js-minify", () => {
 // Image Compression
 gulp.task("img-compression", function () {
   gulp
-    .src("./img/*")
+    .src("./img/**")
     .pipe(
       imagemin([
         imagemin.gifsicle({ interlaced: true }),

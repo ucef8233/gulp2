@@ -9,10 +9,6 @@
     "js-build": "gulp js-build",
     "js-minify": "gulp js-minify"
   },
-  "repository": {
-    "type": "git",
-    "url": "http://git.mdbootstrap.com/mdb/jquery/jq-gulp.git"
-  },
   "author": "MDBootstrap",
   "license": "MIT",
   "devDependencies": {
